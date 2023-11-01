@@ -19,9 +19,12 @@ Features<br>
 -Search for inventory pages.<br>
 
 Technologies<br>
+-React.js<br>
+-Node.js<br>
+-MongoDB<br>
 -HTML<br>
 -CSS<br>
--JavaScript<br>
+-Bootstrap<br>
 -Git (for version control)<br>
 
 Setup and Installation<br>
