@@ -1,39 +1,40 @@
 # Inventory Manager
-Welcome to my Inventory Manager project! This repository contains the code for the project.
+Welcome to my inventory manager project! This repository contains the project. <br>
 
-Table of Contents
+Table of Contents<br>
 
-Introduction
-Features
-Technologies
-Setup and Installation
-Usage
-Contributing
-Introduction
-This repository hosts the source code for my personal portfolio website. The purpose of this site is to showcase my skills, projects, and experience to potential employers, clients, or anyone interested in my work and also to organize work that I've done for myself.
+1. Introduction<br>
+2. Features<br>
+3. Technologies<br>
+4. Setup and Installation<br>
+5. Usage<br>
+6. Contributing<br>
 
-Features
--Responsive design for optimal viewing across various devices.
--CRUD Features for inventory.
--Search feature.
+Introduction<br>
+This repository hosts the source code the inventory manager project. This allows people to create pages and sections to separate inventory.<br>
 
-Technologies
--HTML
--CSS
--JavaScript
--Git (for version control)
+Features<br>
+-Responsive design for optimal viewing across various devices.<br>
+-CRUD functionality.<br>
+-Search for inventory pages.<br>
 
-Setup and Installation
+Technologies<br>
+-HTML<br>
+-CSS<br>
+-JavaScript<br>
+-Git (for version control)<br>
 
-Clone the repository.
-Navigate to the project directory.
-Install dependencies using your preferred package manager.
-Run the development server to preview the site locally.
-In bash
+Setup and Installation<br>
+1. Clone the repository.<br>
+2. Navigate to the project directory.<br>
+3. Install dependencies using your preferred package manager.<br>
+4. Run the development server to preview the site locally.<br>
 
-git clone https://github.com/oscarzhang228/InventoryManager.git
-cd InventoryManager
-npm install
-npm start
-Usage
-Feel free to customize this code to build your project. Personalize the styling to match your preferences.
+In bash<br>
+1. git clone https://github.com/oscarzhang228/InventoryManager.git<br>
+2. cd InventoryManager<br>
+3. npm install<br>
+4. npm start<br>
+
+Usage<br>
+Feel free to customize this code to build your own inventory manager. Personalize styling to your liking.<br>
